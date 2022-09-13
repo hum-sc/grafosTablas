@@ -1,5 +1,5 @@
 
-package adyacencia;
+package matrizAdyacencia;
 
 public class MA {
 

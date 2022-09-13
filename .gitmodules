@@ -1,0 +1,3 @@
+[submodule "TT4"]
+	path = TT4
+	url = git@github.com:hum-sc/TT4.git
