@@ -1,4 +1,4 @@
-package adyacencia;
+package matrizAdyacencia;
 
 public class GrafoMatrixAdyacencia {
 private final int MAXIMO_VERTICES;
